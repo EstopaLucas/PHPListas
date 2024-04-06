@@ -7,3 +7,10 @@
         echo "Valor Negativo!";
     else
         echo "Valor igual a zero!";
+
+        ?>
+        <p>
+        <form action="index2.php" method="post">
+            <button type="submit">Exercicio 2</button>
+        </form>
+        </p>
